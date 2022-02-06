@@ -9,9 +9,11 @@
 
 - 🌱 I’m currently learning **Python ,C++**
 
-- 💬 Ask me about **M.Tech (DataScience ) Aspirant**
+- 💬 Ask me about **Python ,AI**
 
 - 📫 How to reach me **dwivedipiyush9754@gmail.com**
+
+-✨  About My Achievements **I'm Microsoft Azure Fundamental Certified DP-900**
 
 - ⚡ Fun fact **I start my Coding Journey on 2021**
 

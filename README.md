@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **dwivedipiyush9754@gmail.com**
 
--✨  About My Achievements **I'm Microsoft Azure Fundamental Certified DP-900**
+ ✨  About My Achievements **I'm Microsoft Azure Fundamental Certified DP-900**
 
 - ⚡ Fun fact **I start my Coding Journey on 2021**
 

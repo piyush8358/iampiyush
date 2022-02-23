@@ -30,8 +30,8 @@
 
 
 [![Piyush's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=piyush8358&&theme=xcode)](https://github.com/piyush8358)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=piyush8358&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="piyush8358" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=piyush8358&show_icons=true&locale=en&layout=compact&theme=ayu-mirage" alt="piyush8358" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piyush8358&show_icons=true&locale=en&theme=tokyonight" alt="piyush8358" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piyush8358&show_icons=true&locale=en&theme=ayu-mirage" alt="piyush8358" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piyush8358&&theme=tokyonight" alt="piyush8358" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piyush8358&&theme=ayu-mirage" alt="piyush8358" /></p>

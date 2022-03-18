@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/piyush-dwivedi-1909a5213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/piyush-dwivedi-1909a5213/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16891591/piyush-8358" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/16891591/piyush-8358" height="30" width="40" /></a>
-<a href="https://instagram.com/piyushdwivedi_12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="piyushdwivedi_12" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -31,8 +31,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyush8358&show_icons=true&locale=en&theme=ayu-mirage" alt="piyush8358" /></a> </p>
 
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=piyush8358&show_icons=true&locale=en&layout=compact&theme=ayu-mirage" alt="piyush8358" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piyush8358&show_icons=true&locale=en&theme=ayu-mirage" alt="piyush8358" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piyush8358&locale=en&theme=ayu-mirage" alt="piyush8358" /></p>
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyush8358&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="piyush8358" />
+</p>
